@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nghenhac" type="id" />
+    <item name="xemphim" type="id" />
+    <item name="name" type="id" />
+    <item name="birthday" type="id" />
+    <item name="favourite" type="id" />
+    <item name="cf" type="id" />
+    <item name="onha" type="id" />
+    <item name="nauan" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="XacNhan" type="id" />
+</resources>
